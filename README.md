@@ -40,7 +40,3 @@ Assista ao funcionamento completo do circuito modificado no YouTube:
 * Iara Lima Publio
 * Izabel Oliveira da Paz Chaves
 * Pedro Guimarães Alves Freitas
-
----
-
-Se quiser, posso montar um [template de README com print do circuito incluído](f), ou [gerar um badge visual com link pro vídeo](f)!
