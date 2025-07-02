@@ -1,2 +1,46 @@
-# SAP-Modificado
-Este projeto apresenta melhorias no SAP-1, com a adição de um Timer decremental que controla automaticamente os ciclos de cada instrução, e portas de Entrada e Saída de 8 bits, permitindo maior precisão no processamento e visualização dos dados.
+# 🧠 SAP-Modificado - Processador Didático com Melhorias
+
+Este projeto é uma versão aprimorada do **SAP-1 (Claudio Versão 5)**, com foco em torná-lo mais **funcional**, **automatizado** e **moderno** para fins didáticos.
+Foram realizadas duas modificações principais:
+
+---
+
+## ✨ Principais Melhorias
+
+### ⏲️ Timer Decremental Inteligente
+
+Implementado com **flip-flops tipo T**, o novo Timer permite que cada instrução tenha seu próprio número de ciclos de execução.
+👉 Isso garante maior controle, flexibilidade e permite que o circuito **pare automaticamente** ao fim da instrução.
+
+### 🔄 Entrada e Saída de 8 bits
+
+Adicionamos **portas de entrada e saída** com largura total de 8 bits, possibilitando a manipulação de dados mais complexos, além de uma visualização mais precisa com o **display visual**.
+
+---
+
+## 🎥 Demonstração em Vídeo
+
+Assista ao funcionamento completo do circuito modificado no YouTube:
+📺 [**Clique aqui para assistir ao vídeo**](https://youtu.be/fgtOxSKyaBY)
+
+---
+
+## 📂 Arquivos disponíveis
+
+* `SAP1-6 (2)` → Arquivo do projeto no **Logisim**
+* `README.md` → Descrição do projeto
+* Vídeo explicativo
+
+---
+
+## 👩‍💻👨‍💻 Integrantes do Grupo
+
+* Any Gabriela Neri de Oliveira
+* Eduardo Henrique Aniceto Teixeira
+* Iara Lima Publio
+* Izabel Oliveira da Paz Chaves
+* Pedro Guimarães Alves Freitas
+
+---
+
+Se quiser, posso montar um [template de README com print do circuito incluído](f), ou [gerar um badge visual com link pro vídeo](f)!
